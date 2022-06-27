@@ -1,0 +1,78 @@
+Princeton University
+NJ Princeton
+41820 	8014	0.0740	0.98	0.97
+Harvard University
+MA Cambridge
+43838 	19882	0.0580	0.97	0.97
+Yale University
+CT New Haven
+45800 	12109	0.0690	0.99	0.98
+Columbia University
+NY New York			
+51008 	23606	0.0690	0.99	0.96
+Stanford University
+CA Stanford
+44757 	18136	0.0570	0.98	0.96
+University of Chicago
+IL Chicago
+48253 	12539	0.0880	0.99	0.93
+Massachusetts Institute of Technology
+MA Cambridge
+45016 	11301	0.0820	0.98	0.93
+Duke University
+NC Durham
+47488 	15465	0.1240	0.97	0.94
+University of Pennsylvania
+PA Philadelphia
+47668 	21358	0.1220	0.98	0.96
+California Institute of Technology
+CA Pasadena
+43362 	2181	0.1060	0.97	0.93
+Dartmouth College
+NH Hanover
+48108 	6342	0.1040	0.98	0.95
+Johns Hopkins University
+MD Baltimore
+47060 	21052	0.1710	0.97	0.93
+Northwestern University
+IL Evanston
+47251 	20997	0.1400	0.97	0.94
+Washington University in St. Louis
+MO St. Louis
+46467 	14032	0.1560	0.97	0.94
+Cornell University
+NY Ithaca
+47286 	21593	0.1560	0.97	0.93
+Brown University
+RI Providence			
+47434 	8943	0.0920	0.98	0.94
+University of Notre Dame
+IN Notre Dame			
+46237 	12124	0.2230	0.98	0.95
+Vanderbilt University
+TN Nashville
+43838 	12757	0.1270	0.97	0.93
+Rice University
+TX Houston
+40566 	6628	0.1670	0.97	0.91
+University of California-Berkeley
+CA Berkeley
+25064 	36204	0.1770	0.97	0.91
+Emory University
+GA Atlanta
+45008 	14513	0.2650	0.95	0.91
+Georgetown University
+DC Washington
+46744 	17849	0.1710	0.96	0.92
+University of California-Los Angeles
+CA Los Angeles
+25064 	42190	0.2040	0.97	0.90
+University of Virginia
+VA Charlottesville
+42184 	23464	0.3010	0.97	0.93
+Carnegie Mellon University
+PA Pittsburgh
+48786 	12991	0.2550	0.95	0.88
+University of Southern California
+CA Los Angeles
+48280 	41368	0.1980	0.97	0.91
