@@ -1,2 +1,6 @@
-# universities-comparator
-Gets data for many major U.S. universities/colleges (state it's located in, yearly tuition, enrollment, average freshman retention rate, and percentage of students who graduate within six years). Outputs to file all the data from the input file in its original order. Outputs to console all schools the user can attend based on how much they indicated they could afford to pay. Outputs to console the school(s) with the lowest tuition. Outputs to file information about colleges in the state the user inputted. Sorts all the data from the input file (using a selection sort algorithm) and outputs the sorted data to file. 
+# Instructions
+1. Download **Universities Comparator.cpp** and **UniversitiesData.txt** and place both files in the same folder.
+2. Run **Universities Comparator.cpp**.
+3. When prompted by the console, enter the maximum tuition you can pay to see all the schools you can afford.
+4. When prompted by the console, enter the two-letter abbreviation for a state to see information about all the schools in that state.
+5. View all of the information/data in the console and the file created by the program (**Universities Comparator Output.txt**). The output file should be in the same folder as the other two files mentioned in step #1.
